@@ -108,7 +108,7 @@ cd autonomous-shopping-cart
 2. Select correct board and port in Arduino IDE
 3. Upload `src/autonomous_cart.ino`
 
-## 🚀 Usage
+##  Usage
 
 1. **Power On**: Turn on the cart's power supply
 2. **Position**: Place the cart behind the person to follow
