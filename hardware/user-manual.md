@@ -12,7 +12,7 @@
 
 ## Safety Instructions
 
-⚠️ **IMPORTANT: Read all safety instructions before operating the cart**
+ **IMPORTANT: Read all safety instructions before operating the cart**
 
 ### Before Use
 - Ensure all connections are secure and insulated
@@ -99,16 +99,16 @@ The cart follows objects based on color. You must first "teach" the Pixy2 camera
 ### Choosing Good Colors
 
 **Best Colors to Track:**
-- ✅ Bright, saturated colors (red, orange, blue, green)
-- ✅ Unique colors not commonly found in environment
-- ✅ Matte finishes (avoid shiny or reflective surfaces)
-- ✅ Large colored areas (at least 10cm x 10cm)
+-  Bright, saturated colors (red, orange, blue, green)
+-  Unique colors not commonly found in environment
+-  Matte finishes (avoid shiny or reflective surfaces)
+-  Large colored areas (at least 10cm x 10cm)
 
 **Avoid:**
-- ❌ White, black, or gray (poor contrast)
-- ❌ Colors matching floor, walls, or common items
-- ❌ Metallic or reflective materials
-- ❌ Very small colored objects
+-  White, black, or gray (poor contrast)
+-  Colors matching floor, walls, or common items
+-  Metallic or reflective materials
+-  Very small colored objects
 
 **Pro Tip:** Use a colored vest, armband, or marker attached to clothing for consistent tracking.
 
@@ -319,21 +319,21 @@ moveRobot(70, 70);    // Forward
 
 ## Tips for Best Performance
 
-### 🎯 Tracking Tips
+###  Tracking Tips
 1. Use bright, unique colors
 2. Maintain consistent distance (50-80 cm optimal)
 3. Move smoothly, avoid sudden changes
 4. Ensure good lighting (natural or artificial)
 5. Keep colored marker clearly visible
 
-### 🏪 Shopping Mall Use
+###  Shopping Mall Use
 1. Start in less crowded areas
 2. Avoid peak shopping hours during testing
 3. Use high-visibility colored marker
 4. Inform others about the autonomous cart
 5. Always maintain manual override capability
 
-### 📸 Camera Optimization
+###  Camera Optimization
 1. Position camera at waist height
 2. Angle slightly downward (10-15°)
 3. Keep lens clean and free of smudges
