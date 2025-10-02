@@ -1,4 +1,4 @@
-# Autonomous Shopping Cart 🛒🤖
+# Autonomous Shopping Cart 
 
 An intelligent shopping cart system that autonomously follows a designated person using computer vision and robotics technology.
 
