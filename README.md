@@ -169,8 +169,8 @@ autonomous-shopping-cart/
 ├── images/                        # Project photos
 ├── README.md                      # This file
 ├── LICENSE                        # MIT License
-├── .gitignore                     # Git ignore rules
-└── CONTRIBUTING.md                # Contribution guidelines
+
+               
 ```
 
 ##  Results
